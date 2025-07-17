@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFinder", "WordFinder.csproj", "{CAF34D1E-03D7-46A4-8E11-C6D1932F5B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFinderTest", "..\WordFinderTest\WordFinderTest.csproj", "{8A889D2A-B421-4CEB-B2DD-3C974AEDD039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF34D1E-03D7-46A4-8E11-C6D1932F5B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF34D1E-03D7-46A4-8E11-C6D1932F5B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF34D1E-03D7-46A4-8E11-C6D1932F5B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF34D1E-03D7-46A4-8E11-C6D1932F5B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A889D2A-B421-4CEB-B2DD-3C974AEDD039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A889D2A-B421-4CEB-B2DD-3C974AEDD039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A889D2A-B421-4CEB-B2DD-3C974AEDD039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A889D2A-B421-4CEB-B2DD-3C974AEDD039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE10FF95-D535-4CFE-8886-2A34E74D7E2F}
+	EndGlobalSection
+EndGlobal
